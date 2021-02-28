@@ -5,7 +5,7 @@
 
 ### The variables are self-explanatory. However, I have added the following data dictionery for better understanding.
 
-##### Data Dictionery
+#### Data Dictionery
 ##### Date: Q1 and Q2 of 2014 with Q3 and Q4 of 2015
 ##### actual_mean_temp: Actual Mean temperature recorded
 ##### actual_min_temp: Actual Min temperature recorded
