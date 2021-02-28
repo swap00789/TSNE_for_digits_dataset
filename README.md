@@ -1,7 +1,7 @@
-## TSNE_for_digits_dataset
-##### PART A: The digits dataset from sklearn is used to carry out dimension reducion through the method of TSNE by plotting the numbers on the graphs
-## Temperature recorded by the weather station at the Charlotte/Douglas International Airport.
-##### PART B: Uses pandas dataframe to create a moving average of the 'actual max temp' subsequently plotting the 'Recorded vs Average Precipitation' and 'Record Min Temp and Record Max Temp with a 7 day Weighted Moving Average'
+## PART A: TSNE_for_digits_dataset
+##### The digits dataset from sklearn is used to carry out dimension reducion through the method of TSNE by plotting the numbers on the graphs
+## PART B: Temperature recorded by the weather station at the Charlotte/Douglas International Airport.
+##### Uses pandas dataframe to create a moving average of the 'actual max temp' subsequently plotting the 'Recorded vs Average Precipitation' and 'Record Min Temp and Record Max Temp with a 7 day Weighted Moving Average'
 
 ### The variables are self-explanatory. However, I have added the following data dictionery for better understanding.
 
